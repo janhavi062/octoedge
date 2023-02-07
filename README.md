@@ -1,2 +1,0 @@
-# octoedge
-task-1
